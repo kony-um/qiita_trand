@@ -3,7 +3,9 @@ Qiitaのトップページからトレンド情報を取得してチャットワ
 
 ## Setting
 チャットワークのAPIキーを取得しておくこと
+
 GASのチャットワーク用のライブラリを読み込むこと。
+
 [Google Apps ScriptからChatWork APIを使って投稿する](https://qiita.com/y_minowa/items/39db8ca5bffc9c440caf)
 
 ## Author
