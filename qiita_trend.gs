@@ -15,9 +15,7 @@ function myFunction() {
 }
 
 function isRankLine(line) {
-  if (line.match(/data\-hyperapp\-app\=\"Trend\"/)) {
-    return line;
-  }
+  return line.match(/data\-hyperapp\-app\=\"Trend\"/);
 }
 
 function getRankJson(line) {
